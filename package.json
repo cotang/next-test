@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "dev": "next"
+  },
+  "name": "next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "cowsay-browser": "^1.1.8",
+    "next": "^7.0.1",
+    "node-sass": "^4.9.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
